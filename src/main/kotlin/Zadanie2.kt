@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Введите строку из английских символов: ")
     val stroka = readln()
 
@@ -14,3 +14,4 @@ fun main(args: Array<String>) {
         println("$char - $count")
     }
     }
+
