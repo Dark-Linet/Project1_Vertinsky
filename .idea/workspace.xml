@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0465fcdb-9a59-46af-a91a-dfd15a44aef9" name="Changes" comment="renamed">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Zadanie2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Zadanie2.kt" afterDir="false" />
+    <list default="true" id="0465fcdb-9a59-46af-a91a-dfd15a44aef9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Zadanie3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Zadanie4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Zadanie5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Worksheet" />
+        <option value="Kotlin Script" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -31,14 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1813-23\IdeaProjects\Project1_Vertinsky\out\production\Project1_Vertinsky" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1757762466708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done + Unnecessary code removed">
+      <created>1757762800499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757762800499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +113,7 @@
     <MESSAGE value="Task 1 done" />
     <MESSAGE value="Task 2 done" />
     <MESSAGE value="renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed" />
+    <MESSAGE value="Done + Unnecessary code removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done + Unnecessary code removed" />
   </component>
 </project>
